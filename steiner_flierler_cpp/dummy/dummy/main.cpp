@@ -9,6 +9,8 @@
 
 void thisIsAnewMethod() {
     std::cout << "There will be so many conflicts..." << std::endl;
+    //hopefully this doesn't create a conflict
+
 }
 
 int main(int argc, const char * argv[]) {
