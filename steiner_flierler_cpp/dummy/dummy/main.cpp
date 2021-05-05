@@ -7,6 +7,8 @@
 
 #include <iostream>
 
+void thisIsAnewMethod() {}
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, Marc Kurz!" << std::endl;
