@@ -7,7 +7,9 @@
 
 #include <iostream>
 
-void thisIsAnewMethod() {}
+void thisIsAnewMethod() {
+    std::cout << "There will be so many conflicts..." << std::endl;
+}
 
 int main(int argc, const char * argv[]) {
     // insert code here...
