@@ -13,6 +13,7 @@ void thisIsAnewMethod() {
     std::cout << "There will be so many conflicts..." << std::endl;
     //hopefully this doesn't create a conflict
     //but it happened
+    //some fixes wuhu
 }
 
 void anotherMethod() {}
