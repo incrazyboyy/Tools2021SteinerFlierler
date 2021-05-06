@@ -7,7 +7,11 @@
 
 #include <iostream>
 
-void myCoolMethod() {}
+void myCoolMethod() {
+    for(int i = 0; i < 100; i++){
+        std::cout << i << std::endl;
+    }
+}
 
 void thisIsAnewMethod() {
     std::cout << "There will be so many conflicts..." << std::endl;
